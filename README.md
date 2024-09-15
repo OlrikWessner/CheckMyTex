@@ -1,1 +1,1 @@
-# -CheckMyTex
+# CheckMyTex
